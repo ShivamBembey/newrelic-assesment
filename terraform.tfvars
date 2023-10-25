@@ -1,0 +1,1 @@
+# mypolicyname = "tfvars-policy01"
